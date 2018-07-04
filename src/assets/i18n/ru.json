@@ -1,3 +1,4 @@
 {
-  "HELLO": "привет {{value}}"
+  "HELLO": "привет {{value}}",
+  "FORMATTED": "<strong>немного HTML</strong>"
 }
